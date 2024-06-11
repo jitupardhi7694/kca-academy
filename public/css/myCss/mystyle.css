@@ -2,9 +2,15 @@
     color: #7971ea !important;
 }
 
-
+.img-fluid-radius {
+    
+    border-radius: 36px !important;
+}
 
 .custom-icon-wrap-1 h3 {
     font-size: 1.05rem !important;
     color: gray !important;;
+}
+.bold{
+    color: black;
 }
